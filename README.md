@@ -10,4 +10,4 @@ API Endpoints and Description
 https://www.nps.gov/subjects/developer/api-documentation.htm
 
 
-![Pic1](Tableau_Dashboard_viz.png)
+![Pic2](Tableau_Dashboard_viz.png)
