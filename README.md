@@ -1,6 +1,6 @@
 # National-Park-Service-NPS
 There are two parts of this project
-1. Python project to harvest parking fee of parks,National Historical Parks, National Heritage Areas using REST APIs <br />
+1. Python project to harvest parking fee of National Park, National Memorial, National Scenic Trail, National Battlefield, National Monument, National River, National Reserve, National Recreation Area using REST APIs <br />
 
 Fields/Features extracted: <br />
 a. ParkCode <br />
