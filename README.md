@@ -19,11 +19,12 @@ j. Fee Description <br />
 
 2. Visualize the harvested data in Tableau and Shiny.
 
+![Pic2](Tableau_Dashboard_viz.png)
+
+
+
 API Guidebook:
 https://www.nps.gov/subjects/developer/guides.htm
 
 API Endpoints and Description
 https://www.nps.gov/subjects/developer/api-documentation.htm
-
-
-![Pic2](Tableau_Dashboard_viz.png)
