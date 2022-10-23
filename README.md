@@ -2,17 +2,17 @@
 There are two parts of this project
 1. Python project to harvest parking fee of parks,National Historical Parks, National Heritage Areas using REST APIs <br />
 
-Fields/Features extracted There are two parts of this project <br />
-ParkCode <br />
-State <br />
-Name of the National Park <br />
-Type of the National Park(Designation) <br />
-Latitude <br />
-Longitude  <br />
-LatLong  <br />
-Fee USD  <br />
-Fee Type <br />
-Fee Description <br />
+Fields/Features extracted: <br />
+a. ParkCode <br />
+b. State <br />
+c. Name of the National Park <br />
+d. Type of the National Park(Designation) <br />
+e. Latitude <br />
+f. Longitude  <br />
+g. LatLong  <br />
+h. Fee USD  <br />
+i. Fee Type <br />
+j. Fee Description <br />
 
 
 
