@@ -1,15 +1,15 @@
 # National-Park-Service-NPS
 This project focuses to harvest 10 features from the NPS API namely: 
-ParkCode 
-State 
-Name of the National Park
-Type of the National Park(Designation)
-Latitude
-Longitude 
-LatLong 
-Fee USD 
-Fee Type 
-Fee Description
+ParkCode <br />
+State <br />
+Name of the National Park <br />
+Type of the National Park(Designation) <br />
+Latitude <br />
+Longitude  <br />
+LatLong  <br />
+Fee USD  <br />
+Fee Type <br />
+Fee Description <br />
 
 
 
