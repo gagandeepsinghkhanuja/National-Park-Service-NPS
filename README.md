@@ -19,7 +19,7 @@ j. Fee Description <br />
 
 2. Visualize the harvested data in Tableau and Shiny.
 
-![Image1](Output/Parks - By Entrance Fee.png)
+![Image1](/Output/Parks - By Entrance Fee.png)
 
 ![Image2](Output/Parks by State.png)
 
