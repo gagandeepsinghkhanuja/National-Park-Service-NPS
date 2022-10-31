@@ -19,9 +19,10 @@ j. Fee Description <br />
 
 2. Visualize the harvested data in Tableau and Shiny.
 
-![Image1](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/Parks%20-%20By%20Entrance%20Fee.png)
+![Image1](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/Parks%20by%20State.png)
 
-![Image2](Output/Parks by State.png)
+![Image2](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/Parks%20-%20By%20Entrance%20Fee.png)
+
 
 
 
