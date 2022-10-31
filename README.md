@@ -1,13 +1,30 @@
 # National-Park-Service-NPS
 There are two parts of this project
-1. Python project to harvest parking fee of parks,National Historical Parks, National Heritage Areas using REST APIs
+1. Python project to harvest parking fee of National Park, National Memorial, National Scenic Trail, National Battlefield, National Monument, National River, National Reserve, National Recreation Area using REST APIs <br />
+
+Fields/Features extracted: <br />
+a. ParkCode <br />
+b. State <br />
+c. Name of the National Park <br />
+d. Type of the National Park(Designation) <br />
+e. Latitude <br />
+f. Longitude  <br />
+g. LatLong  <br />
+h. Fee USD  <br />
+i. Fee Type <br />
+j. Fee Description <br />
+
+
+
+
 2. Visualize the harvested data in Tableau and Shiny.
+
+![Pic2](Tableau_Dashboard_viz.png)
+
+
 
 API Guidebook:
 https://www.nps.gov/subjects/developer/guides.htm
 
 API Endpoints and Description
 https://www.nps.gov/subjects/developer/api-documentation.htm
-
-
-![Pic2](Tableau_Dashboard_viz.png)
