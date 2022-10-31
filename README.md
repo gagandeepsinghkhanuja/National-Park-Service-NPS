@@ -19,7 +19,7 @@ j. Fee Description <br />
 
 2. Visualize the harvested data in Tableau and Shiny.
 
-!Output/[Pic2](Parks by State.png
+!Output/(Parks by State}.png
 
 
 
