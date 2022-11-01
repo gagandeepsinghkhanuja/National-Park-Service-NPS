@@ -4,8 +4,8 @@ Background
 
 The National Park Service API(Application Programming Interface) is a one stop shop to pull photos and essential information about NPS sites (visitor center, camp grounds, events, news alert and articles on natural and cultural features). 
 
-There are two parts of this project
-1. Python project to harvest parking fee of National Park, National Memorial, National Scenic Trail, National Battlefield, National Monument, National River, National Reserve, National Recreation Area using REST APIs <br />
+My focus here is on two important aspects: 
+1. To harvest parking fee of National Park, National Memorial, National Scenic Trail, National Battlefield, National Monument, National River, National Reserve, National Recreation Area using REST APIs <br />
 
 Fields/Features extracted: <br />
 a. ParkCode <br />
