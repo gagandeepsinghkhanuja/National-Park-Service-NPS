@@ -1,6 +1,7 @@
 # National-Park-Service-NPS
 
-#Background 
+Background 
+
 The National Park Service API(Application Programming Interface) is a one stop shop to pull photos and essential information about NPS sites (visitor center, camp grounds, events, news alert and articles on natural and cultural features). 
 
 There are two parts of this project
