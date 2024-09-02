@@ -24,7 +24,7 @@ For this project, the following fields have been extracted from the NPS API:
 
 
 
-### Visualize the harvested data in Tableau
+## Visualize the harvested data in Tableau
 
 ![Image1](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/Parks%20by%20State.png)
 
