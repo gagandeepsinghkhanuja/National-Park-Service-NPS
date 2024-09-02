@@ -26,7 +26,7 @@ For this project, the following fields have been extracted from the NPS API:
 
 ## Visualize the harvested data in Tableau
 
-[Link ](https://public.tableau.com/views/NATIONALPARKSERVICE/NATIONALPARKSERVICE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Link to Live Tableau Public Dashboard ](https://public.tableau.com/views/NATIONALPARKSERVICE/NATIONALPARKSERVICE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [![Image1](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/Parks%20by%20State.png)](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/NPS%20-%20By%20State.png)
 
