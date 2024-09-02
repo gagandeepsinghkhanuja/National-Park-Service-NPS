@@ -2,23 +2,25 @@
 
 Background 
 
-The National Park Service API(Application Programming Interface) is a one stop shop to pull photos and essential information about NPS sites (visitor center, camp grounds, events, news alert and articles on natural and cultural features). 
+The National Park Service (NPS) manages a vast array of natural and cultural sites across the United States, from the iconic Yellowstone National Park to the historic Gettysburg National Battlefield. To provide developers, researchers, and park enthusiasts with easy access to essential information about these sites, the NPS offers a robust API (Application Programming Interface). This API serves as a one-stop shop for retrieving data such as photos, visitor center information, campgrounds, events, news alerts, and articles on natural and cultural features.
 
-My focus here is on two important aspects: 
-1. To harvest parking fee of National Park, National Memorial, National Scenic Trail, National Battlefield, National Monument, National River, National Reserve, National Recreation Area using REST APIs <br />
+In this project, my focus is on two key aspects: <br/>
+	1.	Harvesting Parking Fee Data: Extracting detailed information on parking fees for various types of NPS sites, including National Parks, National Memorials, National Scenic Trails, National Battlefields, National Monuments, National Rivers, National Reserves, and National Recreation Areas. <br/>
+	2.	Data Visualization: Using Tableau to visualize the harvested data, making it easier to identify patterns, compare fees across different sites, and gain insights into the NPS’s fee structures.
 
-Fields/Features extracted: <br />
-a. ParkCode <br />
-b. State <br />
-c. Name of the National Park <br />
-d. Type of the National Park(Designation) <br />
-e. Latitude <br />
-f. Longitude  <br />
-g. LatLong  <br />
-h. Fee USD  <br />
-i. Fee Type <br />
-j. Fee Description <br />
+Key Fields/Features Extracted
 
+For this project, the following fields have been extracted from the NPS API:
+	•	ParkCode: A unique identifier for each park.<br/>
+	•	State: The state(s) in which the park is located.<br/>
+	•	Name of the National Park: The official name of the park.<br/>
+	•	Type of the National Park (Designation): The designation of the park (e.g., National Park, National Monument).<br/>
+	•	Latitude: The geographic latitude of the park.<br/>
+	•	Longitude: The geographic longitude of the park.<br/>
+	•	LatLong: A combined field of latitude and longitude.<br/>
+	•	Fee USD: The parking fee in U.S. dollars.<br/>
+	•	Fee Type: The type of fee (e.g., per vehicle, per person).<br/>
+	•	Fee Description: A brief description of what the fee covers.<br/>
 
 
 
