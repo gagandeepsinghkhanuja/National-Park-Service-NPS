@@ -33,10 +33,6 @@ For this project, the following fields have been extracted from the NPS API:
 ![Image2](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/NPS%20Entry%20Fee%20-%20By%20Vehicle%20Type.png)
 
 
-
-
-Output/NPS Entry Fee - By Vehicle Type.png
-
 API Guidebook:
 https://www.nps.gov/subjects/developer/guides.htm
 
