@@ -5,9 +5,7 @@ Background
 The National Park Service (NPS) manages a vast array of natural and cultural sites across the United States, from the iconic Yellowstone National Park to the historic Gettysburg National Battlefield. To provide developers, researchers, and park enthusiasts with easy access to essential information about these sites, the NPS offers a robust API (Application Programming Interface). This API serves as a one-stop shop for retrieving data such as photos, visitor center information, campgrounds, events, news alerts, and articles on natural and cultural features.
 
 In this project, my focus is on two key aspects: <br/>
-
 	1.	Harvesting Parking Fee Data: Extracting detailed information on parking fees for various types of NPS sites, including National Parks, National Memorials, National Scenic Trails, National Battlefields, National Monuments, National Rivers, National Reserves, and National Recreation Areas. <br/>
- 
 	2.	Data Visualization: Using Tableau to visualize the harvested data, making it easier to identify patterns, compare fees across different sites, and gain insights into the NPS’s fee structures.
 
 Key Fields/Features Extracted
