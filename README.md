@@ -28,12 +28,14 @@ For this project, the following fields have been extracted from the NPS API:
 
 [Link to Live Tableau Public Dashboard ](https://public.tableau.com/views/NATIONALPARKSERVICE/NATIONALPARKSERVICE?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[![Image1](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/Parks%20by%20State.png)](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/NPS%20-%20By%20State.png)
+https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/NPS%20-%20By%20State.png
 
-[![Image2](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/Parks%20-%20By%20Entrance%20Fee.png)](https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/NPS%20Entry%20Fee%20-%20By%20Vehicle%20Type.png)
+https://github.com/gagandeepsinghkhanuja/National-Park-Service-NPS/blob/main/Output/NPS%20Entry%20Fee%20-%20By%20Vehicle%20Type.png
 
 
 
+
+Output/NPS Entry Fee - By Vehicle Type.png
 
 API Guidebook:
 https://www.nps.gov/subjects/developer/guides.htm
